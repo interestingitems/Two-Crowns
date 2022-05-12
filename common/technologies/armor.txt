@@ -1,0 +1,42 @@
+technologies = {
+	### GERMAN TANK NAMES IN COMMENTS SO YOU CAN FIND STUFF MORE EASILY
+	gwtank = { #Leichttraktor
+
+		enable_equipments = {
+			gw_tank_equipment
+		}
+		enable_subunits = {
+			light_armor
+		}
+		on_research_complete_limit = {
+		}
+		on_research_complete = {
+		}
+	
+		path = {
+			leads_to_tech = basic_light_tank
+			research_cost_coeff = 1
+		}
+	
+		path = {
+			leads_to_tech = basic_heavy_tank
+			research_cost_coeff = 1
+		}
+		
+		research_cost = 2
+		start_year = 1918
+		folder = {
+			name = armour_folder
+			position = { x = 0 y = 0 }
+		}
+		
+		ai_will_do = {
+			factor = 1
+		}
+		
+		categories = {
+			armor
+			cat_light_armor
+		}
+	}	
+}

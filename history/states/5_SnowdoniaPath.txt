@@ -1,0 +1,20 @@
+state={
+	id=5
+	name="Snowdonia's Treachery"
+	state_category = wasteland
+	provinces={
+		617 2113 1514 2983 284 2037 2361 463 919 2452 1859 789 
+	}
+	history = {
+		owner = CYM
+		add_core_of = CYM
+		buildings = {
+
+		}
+	}
+	resources={
+
+	}
+	manpower = 2100
+	local_supplies = 0.0
+}

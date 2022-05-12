@@ -1,0 +1,27 @@
+state={
+	id=7
+	name="Dyffryn Porthladd"
+	state_category = large_city
+	provinces={
+		1768 1735 2863 1701 1132 2673 3061 2732 1892 1130 
+	}
+	history = {
+		owner = CYM
+		add_core_of = CYM
+		victory_points = { 1132 15 }
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 3
+			dockyard = 3
+			anti_air_building = 1
+			air_base = 1
+		}
+	}
+	resources={
+		chromium = 44
+		tungsten = 11
+		steel = 19
+	}
+	manpower = 724222
+	local_supplies = 6.0
+}

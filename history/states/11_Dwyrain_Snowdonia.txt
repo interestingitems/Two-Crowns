@@ -1,0 +1,14 @@
+state={
+	id=11
+	name="Dwyrain Snowdonia"
+	state_category = wasteland
+	provinces={
+		1616 1582 3359 1868 1329 1671 2805 687 2172 3365 1360 1015 972 60 1063 441 1030 3366 2446 1020 3071 975 730 2060 1317 2346 2970 345 960 2179 2894 2817 420 
+	}
+	history = {
+		owner = CYM
+		add_core_of = CYM
+	}
+	manpower = 10
+	local_supplies = 0.0
+}

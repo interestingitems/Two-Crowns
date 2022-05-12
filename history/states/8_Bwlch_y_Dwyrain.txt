@@ -1,0 +1,24 @@
+state={
+	id=8
+	name="Bwlch y Dwyrain"
+	state_category = rural
+	provinces={
+		393 859 412 1072 734 1979 1465 2310 1222 1809 2182 151 3372 1744 
+	}
+	manpower = 62111
+	history = {
+		owner = CYM
+		add_core_of = CYM
+		victory_points = { 1072 1 }
+		buildings = {
+			infrastructure = 2
+		}
+		
+	}
+	resources={
+		chromium = 3
+		tungsten = 3
+		steel = 1
+	}
+	local_supplies = 0.0
+}

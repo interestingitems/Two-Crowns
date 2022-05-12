@@ -1,0 +1,27 @@
+state={
+	id=9
+	name="Dinas Haearn"
+	state_category = megalopolis
+	provinces={
+		2806 1168 3028 1700 227 2665 1951 3036 3378 58 2039 640 1122 408
+	}
+	history = {
+		owner = CYM
+		add_core_of = CYM
+		victory_points = { 1700 15 }
+		victory_points = { 408 1 }
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			arms_factory = 5
+			air_base = 1
+		}
+	}
+	resources={
+		tungsten = 33
+		steel = 102
+	}
+	manpower = 1560423
+	
+	local_supplies = 10.0
+}

@@ -1,0 +1,24 @@
+state={
+	id=12
+	name="Snowclaw"
+	state_category = large_town
+	provinces={
+		1052 137 1387 2215 2537 2314 365 2462 1845 530 2989 1478
+	}
+	history = {
+		owner = CYM
+		add_core_of = CYM
+		victory_points = { 137 5 }
+		victory_points = { 2462 1 }
+		buildings = {
+			industrial_complex = 1
+			arms_factory = 1
+		}
+	}
+	resources={
+		aluminium = 33
+		steel = 9
+	}
+	manpower = 107605
+	local_supplies = 0.0
+}

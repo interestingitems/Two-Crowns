@@ -1,0 +1,18 @@
+characters = {
+	Liz_Rhyfelwr = {
+		name = Liz_Rhyfelwr
+		portraits = {
+			civilian = {
+				large = GFX_portrait_Liz_Rhyfelwr
+			}
+		}
+		country_leader = {
+			ideology = despotism
+			traits = {}
+			expire = "1960.1.1.1"
+			id = -1
+			desc = Liz_Rhyfelwr_desc
+		}
+	}
+}
+	

@@ -1,0 +1,21 @@
+state={
+	id=4
+	name="Bwlch Gwynedd"
+	state_category = wasteland
+	provinces={
+		1907 2407 2181 453 1993 
+	}
+	history = {
+		owner = CYM
+		add_core_of = CYM
+		victory_points = { 453 1 }
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	resources={
+		
+	}
+	manpower = 22366
+	local_supplies = 0.0
+}

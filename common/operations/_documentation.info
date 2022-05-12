@@ -1,0 +1,6 @@
+#   Definition: SCOPE_OPERATION
+# ------------------------------------------
+# FROM = the target country of the operation
+# ROOT = the origin country of the operation
+# ------------------------------------------
+

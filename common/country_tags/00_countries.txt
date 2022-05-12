@@ -1,0 +1,2 @@
+TST = "countries/Test.txt"
+CYM = "countries/CymryAlltud.txt"

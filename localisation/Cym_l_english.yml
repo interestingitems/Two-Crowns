@@ -1,0 +1,25 @@
+﻿l_english:
+
+CYM_neutrality:1 "Cymry Alltud"
+CYM_neutrality_DEF:1 "Neutrality def"
+CYM_neutrality_ADJ:0 "Neutrality adj"
+
+
+CYM_fascism:0 "Test Country"
+CYM_fascism_DEF:0 "Test Country"
+CYM_democratic:0 "Test Country"
+CYM_democratic_DEF:0 "Test Country"
+
+CYM_communism:0 "Test Country"
+CYM_communism_DEF:0 "Test Country"
+CYM_fascism_ADJ:0 "Test Country"
+CYM_democratic_ADJ:0 "Test Country"
+
+CYM_communism_ADJ:0 "Test Country"
+
+
+##############
+###CHARACTERS###
+##############
+Liz_Rhyfelwr_desc:0 "Epic queenie."
+Liz_Rhyfelwr:0 "Liz Rhyfelwr"

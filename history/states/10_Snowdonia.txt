@@ -1,0 +1,19 @@
+state={
+	id=10
+	name="Snowdonia"
+	state_category = wasteland
+	provinces={
+		515 2710 304 957 2460 1226 2962 1376 819 2787 1557 2150 520 2725 3353 770 2465 998 2086 1996 1038 2300 583 3001 485 1137 2155 2553 513 1018 2632 1181 2506 1304 2474 2937 772 1237 418 3093 
+	}
+	manpower = 10
+	history = {
+		owner = CYM
+		add_core_of = CYM
+		buildings = {
+		}
+	}
+	resources={
+	}
+	
+	local_supplies = 0.0
+}
