@@ -1,0 +1,25 @@
+state={
+	id=24
+	name="Westfang"
+	state_category = town
+	provinces={
+		1141 2402 811 2798 3045 1295 1238 2762 767 416 2598 3334 2929 2768 927 
+	}
+	history = {
+		owner = EDS
+		add_core_of = EDS
+		victory_points = { 137 5 }
+		victory_points = { 2462 1 }
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			arms_factory = 1
+		}
+	}
+	resources={
+		aluminium = 44		
+	}
+	manpower = 109511
+	buildings_max_level_factor=1.000
+	local_supplies = 0.0
+}

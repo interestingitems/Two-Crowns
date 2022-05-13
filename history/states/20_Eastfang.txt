@@ -1,0 +1,23 @@
+state={
+	id=20
+	name="Eastfang"
+	state_category = large_town
+	provinces={
+		3063 2696 160 3304 615 3317 1099 2926 2055 1939 272 2875
+	}
+	history = {
+		owner = EDS
+		add_core_of = EDS
+		victory_points = { 2323 1 }
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+		}
+	}
+	resources={
+		steel = 9
+	}
+	manpower = 64113
+	buildings_max_level_factor=1.000
+	local_supplies = 0.0
+}

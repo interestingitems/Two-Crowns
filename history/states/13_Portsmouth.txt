@@ -1,0 +1,29 @@
+state={
+	id=13
+	name="Portsmouth"
+	state_category = large_city
+	provinces={
+		1068 2783 264 2996 1646 198 1627 1064 1223 1600 474 
+	}
+	manpower = 694733
+	history = {
+		owner = EDS
+		add_core_of = EDS
+		victory_points = { 1068 15 }
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 3
+			dockyard = 3
+			anti_air_building = 1
+			air_base = 1
+		}
+		
+	}
+	resources={
+		steel=12
+		chromium = 20
+		tungsten = 17
+	}
+	buildings_max_level_factor=1.000
+	local_supplies = 0.0
+}

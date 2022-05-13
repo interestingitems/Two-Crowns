@@ -1,0 +1,25 @@
+state={
+	id=18
+	name="Harold's River"
+	state_category = rural
+	provinces={
+		2456 2593 2298 1716 1841 2088 2370 1256 143 
+	}
+	manpower = 60877
+	history = {
+		owner = EDS
+		add_core_of = EDS
+		victory_points = { 1841 1 }
+		buildings = {
+			infrastructure = 2
+		}
+		
+	}
+	resources={
+		chromium = 3
+		tungsten = 3
+		steel = 1
+	}
+	buildings_max_level_factor=1.000
+	local_supplies = 0.0
+}

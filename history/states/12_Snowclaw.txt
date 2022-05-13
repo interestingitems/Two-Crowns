@@ -1,9 +1,9 @@
 state={
 	id=12
 	name="Snowclaw"
-	state_category = large_town
+	state_category = large_town	
 	provinces={
-		1052 137 1387 2215 2537 2314 365 2462 1845 530 2989 1478
+		1052 137 1387 2215 2537 2314 365 2462 1845 530 2989 1478 1409 2949 425 3026
 	}
 	history = {
 		owner = CYM
@@ -11,6 +11,7 @@ state={
 		victory_points = { 137 5 }
 		victory_points = { 2462 1 }
 		buildings = {
+			infrastructure = 1
 			industrial_complex = 1
 			arms_factory = 1
 		}

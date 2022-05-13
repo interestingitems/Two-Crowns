@@ -1,0 +1,23 @@
+state={
+	id=25
+	name="Cefwyn"
+	state_category = rural
+	provinces={
+		1010 2785 1523 2834 1247 1760 656 2323 2284 1074 3310 672 243 1140 
+	}
+	history = {
+		owner = CYM
+		add_core_of = CYM
+		victory_points = { 2323 1 }
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+		}
+	}
+	resources={
+		aluminium = 11
+	}
+	manpower = 60775
+	buildings_max_level_factor=1.000
+	local_supplies = 0.0
+}

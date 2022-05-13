@@ -1,0 +1,23 @@
+state={
+	id=16
+	name="Western Lip"
+	state_category = wasteland
+	provinces={
+		204 1310 2011 
+	}
+	history = {
+		owner = EDS
+		add_core_of = EDS
+		victory_points = { 3550 1 }
+		buildings = {
+			infrastructure = 1
+			anti_air_building = 1
+		}
+		
+	}
+	resources={
+	}
+	manpower = 6955
+	buildings_max_level_factor=1.000
+	local_supplies = 0.0
+}

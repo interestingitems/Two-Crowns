@@ -1,9 +1,9 @@
 
 strategic_region={
-	id=5
-	name="Bryniau Haearn"
+	id=8
+	name="Western Highlands"
 	provinces={
-		58 227 408 640 1122 1168 1700 1951 2039 2665 2806 3028 3036 3378 
+		14 102 143 336 509 576 616 762 813 844 845 867 1178 1191 1194 1256 1386 1401 1554 1561 1716 1786 1819 1841 1865 1879 2088 2133 2293 2298 2370 2381 2456 2593 2625 2636 2757 2776 2879 2904 2930 2950 3005 3142 3333 3343 
 	}
 	weather={
 		period={
@@ -60,7 +60,7 @@ strategic_region={
 		}
 		period={
 			between={ 0.4 30.4 }
-			temperature={ -20.0 10.0 }
+			temperature={ -20.0 5.0 }
 			no_phenomenon=0.800
 			rain_light=0.000
 			rain_heavy=0.000
@@ -73,12 +73,12 @@ strategic_region={
 		}
 		period={
 			between={ 0.5 29.5 }
-			temperature={ -10.0 15.0 }
+			temperature={ -5.0 15.0 }
 			no_phenomenon=1.000
 			rain_light=0.500
 			rain_heavy=0.100
-			snow=0.500
-			blizzard=0.100
+			snow=0.300
+			blizzard=0.000
 			arctic_water=0.000
 			mud=0.000
 			sandstorm=0.000
@@ -86,12 +86,12 @@ strategic_region={
 		}
 		period={
 			between={ 0.6 30.6 }
-			temperature={ -10.0 15.0 }
+			temperature={ -5.0 15.0 }
 			no_phenomenon=1.000
 			rain_light=0.500
 			rain_heavy=0.100
-			snow=0.500
-			blizzard=0.100
+			snow=0.300
+			blizzard=0.000
 			arctic_water=0.000
 			mud=0.000
 			sandstorm=0.000
@@ -99,12 +99,12 @@ strategic_region={
 		}
 		period={
 			between={ 0.7 30.7 }
-			temperature={ -10.0 15.0 }
+			temperature={ -10.0 12.0 }
 			no_phenomenon=1.000
 			rain_light=0.500
 			rain_heavy=0.100
-			snow=0.500
-			blizzard=0.100
+			snow=0.300
+			blizzard=0.000
 			arctic_water=0.000
 			mud=0.000
 			sandstorm=0.000

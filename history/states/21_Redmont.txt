@@ -1,0 +1,27 @@
+state={
+	id=21
+	name="Redmont"
+	state_category = megalopolis
+	provinces={
+		2770 1665 3096 519 2268 3112 483 1834 2087 667 
+	}
+	history = {
+		owner = EDS
+		add_core_of = EDS
+		victory_points = { 1665 15 }
+		victory_points = { 667 1 }
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+			arms_factory = 5
+			air_base = 1
+		}
+	}
+	resources={
+		tungsten = 33
+		steel = 102
+	}
+	manpower = 1508978
+	buildings_max_level_factor=1.000
+	local_supplies = 0.0
+}

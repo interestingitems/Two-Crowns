@@ -1,0 +1,28 @@
+state={
+	id=17
+	name="Coldcoast"
+	state_category = large_city
+	provinces={
+		2871 401 2722 2839 3355 1389 1488 1948 510 2038 
+	}
+	history = {
+		owner = EDS
+		add_core_of = EDS
+		victory_points = { 2871 15 }
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 3
+			dockyard = 3
+			anti_air_building = 1
+			air_base = 1
+		}
+	}
+	resources={
+		chromium = 44
+		tungsten = 11
+		steel = 19
+	}
+	manpower = 731186
+	buildings_max_level_factor=1.000
+	local_supplies = 0.0
+}

@@ -1,9 +1,9 @@
 
 strategic_region={
-	id=5
-	name="Bryniau Haearn"
+	id=11
+	name="Beadulemoaburg"
 	provinces={
-		58 227 408 640 1122 1168 1700 1951 2039 2665 2806 3028 3036 3378 
+		483 519 667 1665 1834 2087 2268 2770 3096 3112 
 	}
 	weather={
 		period={

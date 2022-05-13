@@ -1,0 +1,24 @@
+﻿l_english:
+
+EDS_neutrality:1 "Edsceaft Anglia"
+EDS_neutrality_DEF:1 "Neutrality def"
+EDS_neutrality_ADJ:0 "Neutrality adj"
+
+EDS_fascism:0 "Test Country"
+EDS_fascism_DEF:0 "Test Country"
+EDS_fascism_ADJ:0 "Test Country"
+
+EDS_democratic:0 "Test Country"
+EDS_democratic_DEF:0 "Test Country"
+EDS_democratic_ADJ:0 "Test Country"
+
+EDS_communism:0 "Test Country"
+EDS_communism_DEF:0 "Test Country"
+EDS_communism_ADJ:0 "Test Country"
+
+
+##############
+###CHARACTERS###
+##############
+Catheryn_Bretwalda_desc:0 "Epic queenie."
+Catheryn_Bretwalda:0 "Catheryn Bretwalda"

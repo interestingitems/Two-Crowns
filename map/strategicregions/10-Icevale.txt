@@ -1,9 +1,9 @@
 
 strategic_region={
-	id=6
-	name="Dyffryn"
+	id=10
+	name="Icevale"
 	provinces={
-		1130 1132 1701 1735 1768 1892 2673 2732 2863 3061 
+		401 510 1389 1488 1948 2038 2722 2839 2871 3355 
 	}
 	weather={
 		period={

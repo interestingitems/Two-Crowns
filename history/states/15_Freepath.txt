@@ -1,0 +1,22 @@
+state={
+	id=15
+	name="Freepath"
+	state_category = rural
+	provinces={
+		862 1545 1911 
+	}
+	history = {
+		owner = EDS
+		add_core_of = EDS
+		victory_points = { 1911 1 }
+		buildings = {
+			infrastructure = 2
+		}
+	}
+	resources={
+		
+	}
+	manpower = 23255
+	buildings_max_level_factor=1.000
+	local_supplies = 0.0
+}

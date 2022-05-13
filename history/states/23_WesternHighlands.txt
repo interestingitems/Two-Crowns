@@ -1,0 +1,20 @@
+state={
+	id=23
+	name="Western Highlands"
+	state_category = wasteland
+	provinces={
+		14 3343 509 867 813 3142 616 1879 1194 762 336 2293 1786 1865 1401 1178 2133 2636 1191 2757 1554 2879 2625 2930 845 102 2776 2950 844 3005 1819 2904 1561 3333 576 1386 2381 
+	}
+	manpower = 10
+	history = {
+		owner = EDS
+		add_core_of = EDS
+		buildings = {
+		}
+	}
+	resources={
+	}
+	
+	buildings_max_level_factor=1.000
+	local_supplies = 0.0
+}

@@ -1,4 +1,4 @@
-﻿capital = 2
+capital = 13
 set_research_slots = 3
 
 set_technology = {
@@ -35,4 +35,4 @@ set_popularities = {
 	neutrality = 85
 }
 
-recruit_character = Liz_Rhyfelwr
+recruit_character = Catheryn_Bretwalda
