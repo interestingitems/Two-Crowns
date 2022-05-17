@@ -1,0 +1,19 @@
+state={
+	id=29
+	name="Lynnburg"
+	state_category = pastoral
+	provinces={
+		2424 1846 1301 1710 2908 1219 3143 2628 1201 875 2271 
+	}
+	history = {
+		owner = EDS
+		add_core_of = EDS
+		victory_points = { 1301 1 }
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	manpower = 23014
+	buildings_max_level_factor=1.000
+	local_supplies = 0.0
+}

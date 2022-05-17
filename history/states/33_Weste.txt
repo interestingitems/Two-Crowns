@@ -1,0 +1,15 @@
+state={
+	id=33
+	name="Weste"
+	state_category = wasteland
+	provinces={
+		3105 652 1762 2013 1870 3213 1436 2374 2502 700 3207 1036 833 3190 61 2790 2312 558 
+	}
+	history = {
+		owner = EDS
+		add_core_of = EDS
+	}
+	manpower = 6544
+	buildings_max_level_factor=1.000
+	local_supplies = 0.0
+}

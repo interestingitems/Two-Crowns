@@ -1,0 +1,20 @@
+state={
+	id=36
+	name="Bordweall"
+	state_category = town
+	provinces={
+		73 364 3258 669 2603 389 2987 1615 1210 1479 3042 1341 1218 2810 1383
+	}
+	history = {
+		owner = EDS
+		add_core_of = EDS
+		victory_points = { 364 2 }
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+		}
+	}
+	manpower = 90654
+	buildings_max_level_factor=1.000
+	local_supplies = 0.0
+}

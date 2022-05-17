@@ -1,0 +1,18 @@
+state={
+	id=31
+	name="Dunnham"
+	state_category = wasteland
+	provinces={
+		1471 586 176 1411 1162 2907 2467 439 2801 818
+	}
+	history = {
+		owner = EDS
+		add_core_of = EDS
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	manpower = 9066	
+	buildings_max_level_factor=1.000
+	local_supplies = 0.0
+}

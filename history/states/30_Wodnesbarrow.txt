@@ -1,0 +1,22 @@
+state={
+	id=30
+	name="Wodnesbarrow"
+	state_category = pastoral
+	provinces={
+		300 3254 1815 3251 941 782 2910 1150 2634 2392 3227 216 1499 1246 1445 3237 1854 741 2713
+	}
+	history = {
+		owner = EDS
+		add_core_of = EDS
+		victory_points = { 941 5 }
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	resources={
+		oil = 9		
+	}
+	manpower = 15445
+	buildings_max_level_factor=1.000
+	local_supplies = 0.0
+}

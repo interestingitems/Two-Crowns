@@ -1,0 +1,23 @@
+state={
+	id=34
+	name="Hyrst"
+	state_category = pastoral
+	provinces={
+		655 1572 1490 2556 1510 1947 1104 51 2814 493 1581 455 2588
+	}
+	history = {
+		owner = EDS
+		add_core_of = EDS
+		victory_points = { 2556 1 }
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+		}
+	}
+	resources={
+		aluminium = 12		
+	}
+	manpower = 26444
+	buildings_max_level_factor=1.000
+	local_supplies = 0.0
+}

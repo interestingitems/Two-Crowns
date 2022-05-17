@@ -1,0 +1,29 @@
+state={
+	id=35
+	name="Angland"
+	state_category = megalopolis
+	provinces={
+		1400 1816 1725 141 1482 2387 508 2977 
+	}
+	history = {
+		owner = EDS
+		add_core_of = EDS
+		victory_points = { 1400 10 }
+		victory_points = { 1725 10 }
+		victory_points = { 1816 3 }
+		victory_points = { 2387 3 }
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 8
+			arms_factory = 2
+			anti_air_building = 1
+			air_base = 1
+		}
+	}
+	resources={
+		steel = 24		
+	}
+	manpower = 5122655
+	buildings_max_level_factor=1.000
+	local_supplies = 0.0
+}

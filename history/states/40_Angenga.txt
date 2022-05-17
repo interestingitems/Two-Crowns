@@ -1,0 +1,19 @@
+state={
+	id=40
+	name="Angenga"
+	state_category = rural
+	provinces={
+		611 112 2543 376 64 2991 1570 352 209 908 2132 3076 1881 1805 1319 3289 1840 3283 2244 2575 832
+	}
+	history = {
+		owner = EDS
+		add_core_of = EDS
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+		}
+	}
+	manpower = 152321
+	buildings_max_level_factor=1.000
+	local_supplies = 0.0
+}

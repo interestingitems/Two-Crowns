@@ -1,0 +1,24 @@
+state={
+	id=28
+	name="Eafene"
+	state_category = large_town
+	provinces={
+		557 217 3279 410 3276 4 3 1610 917 1083 2530 774 407 2620 3290 1338 130 1318 1197 3287
+	}
+	history = {
+		owner = EDS
+		add_core_of = EDS
+		victory_points = { 1610 5 }
+		victory_points = { 4 2 }
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+		}
+	}
+	resources={
+		oil = 11		
+	}
+	manpower = 160111
+	buildings_max_level_factor=1.000
+	local_supplies = 0.0
+}

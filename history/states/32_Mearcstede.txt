@@ -1,0 +1,15 @@
+state={
+	id=32
+	name="Mearcstede"
+	state_category = wasteland
+	provinces={
+		949 549 1117 1070 1285 3210 2514 1378 367 840 3040 728 3212 3216 324 1019 3223 2499 1362 2117
+	}
+	history = {
+		owner = EDS
+		add_core_of = EDS
+	}
+	manpower = 4211
+	buildings_max_level_factor=1.000
+	local_supplies = 0.0
+}

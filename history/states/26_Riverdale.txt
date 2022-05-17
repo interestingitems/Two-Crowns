@@ -1,0 +1,24 @@
+state={
+	id=26
+	name="Riverdale"
+	state_category = rural
+	provinces={
+		953 3149 185 636 2090 1067 18 2044 2934 872 2383 2052 665 1788 3299 140 152 708 2621 757 
+	}
+	history = {
+		owner = EDS
+		add_core_of = EDS
+		victory_points = { 757 2 }
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			anti_air_building = 1
+		}
+	}
+	resources={
+		#aluminium = 44		
+	}
+	manpower = 42101
+	buildings_max_level_factor=1.000
+	local_supplies = 0.0
+}

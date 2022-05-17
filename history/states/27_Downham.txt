@@ -1,0 +1,15 @@
+state={
+	id=27
+	name="Downham"
+	state_category = pastoral
+	provinces={
+		206 1995 2332 121 210 1952 2633 1380 925 2348 1023 1079 1347 929 1683 1772
+	}
+	history = {
+		owner = EDS
+		add_core_of = EDS
+	}
+	manpower = 4122
+	buildings_max_level_factor=1.000
+	local_supplies = 0.0
+}
