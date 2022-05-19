@@ -1,0 +1,15 @@
+state={
+	id=48
+	name="Cyfuno Afon"
+	state_category = wasteland
+	provinces={
+		1643 2797 3192 2731 1233 531 2139 166 1113 777 8 628 2301 2267 2213 
+	}
+	history = {
+		owner = CYM
+		add_core_of = CYM
+	}
+	manpower = 7013
+	buildings_max_level_factor=1.000
+	local_supplies = 0.0
+}

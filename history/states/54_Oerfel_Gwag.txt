@@ -1,0 +1,20 @@
+state={
+	id=54
+	name="Oerfel Gwag"
+	state_category = pastoral
+	provinces={
+		1896 3215 1346 792 1970 2727 747 1596 1382 2471 
+	}
+	history = {
+		owner = CYM
+		add_core_of = CYM
+		victory_points = { 1346 1 }
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+		}
+	}
+	manpower = 27001
+	buildings_max_level_factor=1.000
+	local_supplies = 0.0
+}

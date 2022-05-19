@@ -1,0 +1,24 @@
+state={
+	id=41
+	name="Arbeth"
+	state_category = rural
+	provinces={
+		275 55 3308 658 2780 79 2488 2823 1459 635 1213 907 2649 2440 1086 81 964 1270 3233 1993 
+	}
+	history = {
+		owner = CYM
+		add_core_of = CYM
+		victory_points = { 635 2 }
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			anti_air_building = 1
+		}
+	}
+	resources={
+		#aluminium = 44		
+	}
+	manpower = 43055
+	buildings_max_level_factor=1.000
+	local_supplies = 0.0
+}

@@ -3,7 +3,7 @@ state={
 	name="Bwlch Gwynedd"
 	state_category = rural
 	provinces={
-		1907 2407 2181 453 1993 
+		1907 2407 2181 453
 	}
 	history = {
 		owner = CYM

@@ -1,0 +1,21 @@
+state={
+	id=53
+	name="Tirffyrdd"
+	state_category = town
+	provinces={
+		545 546 2419 885 1955 2752 1115 2101 926 812 994 3064 1090 704 1932 1613 381 2376 2174 
+	}
+	history = {
+		owner = CYM
+		add_core_of = CYM
+		victory_points = { 994 1 }
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+			arms_factory = 1
+		}
+	}
+	manpower = 65944
+	buildings_max_level_factor=1.000
+	local_supplies = 0.0
+}

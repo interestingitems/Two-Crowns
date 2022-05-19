@@ -1,0 +1,15 @@
+state={
+	id=47
+	name="Tir Oer"
+	state_category = wasteland
+	provinces={
+		2217 1712 322 2433 3203 1381 1656 912 1806 3196 2253 2697 1875 175 1164 2137 2812 37 3214 2819 2833 745
+	}
+	history = {
+		owner = CYM
+		add_core_of = CYM
+	}
+	manpower = 4320
+	buildings_max_level_factor=1.000
+	local_supplies = 0.0
+}

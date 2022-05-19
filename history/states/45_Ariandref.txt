@@ -1,0 +1,19 @@
+state={
+	id=45
+	name="Ariandref"
+	state_category = pastoral
+	provinces={
+		2224 2282 92 1410 3024 1185 1936 17 2168 1105 
+	}
+	history = {
+		owner = CYM
+		add_core_of = CYM
+		victory_points = { 2282 1 }
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	manpower = 21654
+	buildings_max_level_factor=1.000
+	local_supplies = 0.0
+}

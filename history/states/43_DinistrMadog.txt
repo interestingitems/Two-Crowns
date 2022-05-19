@@ -1,19 +1,19 @@
 state={
-	id=27
-	name="Downham"
+	id=43
+	name="Dinister Madog"
 	state_category = pastoral
 	provinces={
-		206 1995 2332 121 210 1952 2633 1380 925 2348 1023 1079 1347 929 1683 1772
+		838 1125 1544 3019 1371 1408 263 3078 2136 1587 787 1407 2292 3277 1326 1089 2454 1188 1451 2544 860
 	}
 	history = {
-		owner = EDS
-		add_core_of = EDS
+		owner = CYM
+		add_core_of = CYM
 		buildings = {
 			infrastructure = 1
 			anti_air_building = 1
 		}
 	}
-	manpower = 4122
+	manpower = 40956
 	buildings_max_level_factor=1.000
 	local_supplies = 0.0
 }

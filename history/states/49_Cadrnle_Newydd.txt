@@ -1,0 +1,20 @@
+state={
+	id=49
+	name="Cadarnle Newydd"
+	state_category = town
+	provinces={
+		2980 221 3243 1442 2767 1705 3135 517 1629 1289 2071 2813 1468 2279 527 
+	}
+	history = {
+		owner = CYM
+		add_core_of = CYM
+		victory_points = { 2767 2 }
+		buildings = {
+			infrastructure = 3
+			arms_factory = 1
+		}
+	}
+	manpower = 91206
+	buildings_max_level_factor=1.000
+	local_supplies = 0.0
+}

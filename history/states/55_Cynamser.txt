@@ -1,0 +1,19 @@
+state={
+	id=55
+	name="Cynamser"
+	state_category = rural
+	provinces={
+		1976 2481 1802 1696 1709 1214 1692 3082 387 2480 478 1983 2299 311 3288 
+	}
+	history = {
+		owner = CYM
+		add_core_of = CYM
+		buildings = {
+			infrastructure = 2
+			arms_factory = 1
+		}
+	}
+	manpower = 153250
+	buildings_max_level_factor=1.000
+	local_supplies = 0.0
+}

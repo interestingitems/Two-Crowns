@@ -1,14 +1,14 @@
 state={
-	id=34
-	name="Hyrst"
+	id=50
+	name="Bryn Unig"
 	state_category = pastoral
 	provinces={
-		655 1572 2556 1510 1947 1104 51 2814 493 1581 455 2588
+		1273 3226 1775 159 504 179 2411 2272 2518 406 2547
 	}
 	history = {
-		owner = EDS
-		add_core_of = EDS
-		victory_points = { 2556 1 }
+		owner = CYM
+		add_core_of = CYM
+		victory_points = { 2411 1 }
 		buildings = {
 			infrastructure = 2
 			industrial_complex = 1
@@ -17,7 +17,7 @@ state={
 	resources={
 		aluminium = 12		
 	}
-	manpower = 26444
+	manpower = 25970
 	buildings_max_level_factor=1.000
 	local_supplies = 0.0
 }

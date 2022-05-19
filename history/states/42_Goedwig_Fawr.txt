@@ -1,0 +1,24 @@
+state={
+	id=42
+	name="Goedwig Fawr"
+	state_category = large_town
+	provinces={
+		1322 2501 799 2331 258 514 1539 2229 2642 670 952 394 1126 2960 2965 684
+	}
+	history = {
+		owner = CYM
+		add_core_of = CYM
+		victory_points = { 2229 5 }
+		victory_points = { 1126 2 }
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+		}
+	}
+	resources={
+		oil = 11		
+	}
+	manpower = 159442
+	buildings_max_level_factor=1.000
+	local_supplies = 0.0
+}

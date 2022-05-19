@@ -1,0 +1,20 @@
+state={
+	id=52
+	name="Tir Amaeth"
+	state_category = city
+	provinces={
+		1039 1961 2105 847 967 2339 114 2952 961 1619 1770 3023 1782 1753 1146 2739 2250 1927 3255 1740 2683 
+	}
+	history = {
+		owner = CYM
+		add_core_of = CYM
+		victory_points = { 1927 5 }
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 4
+		}
+	}
+	manpower = 192569
+	buildings_max_level_factor=1.000
+	local_supplies = 0.0
+}

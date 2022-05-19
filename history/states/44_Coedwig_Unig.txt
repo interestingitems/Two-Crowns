@@ -1,0 +1,22 @@
+state={
+	id=44
+	name="Coedwig Unig"
+	state_category = pastoral
+	provinces={
+		1682 359 826 434 3252 1190 3060 918 3022 920 1531 1267 1492 1012 1718 1791 3012 
+	}
+	history = {
+		owner = CYM
+		add_core_of = CYM
+		victory_points = { 920 5 }
+		buildings = {
+			infrastructure = 1
+		}
+	}
+	resources={
+		oil = 9		
+	}
+	manpower = 16015
+	buildings_max_level_factor=1.000
+	local_supplies = 0.0
+}
