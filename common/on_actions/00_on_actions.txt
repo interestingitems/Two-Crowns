@@ -1,3 +1,21 @@
 on_actions = {
+    on_startup = {
+        effect = {
+             every_country = {
+                country_event = tcdebugcommands.0
+                country_event = {
+                    id = tcdebugcommands.1
+                    days = 365
+                }
+            }
 
+            CYM = {
+                country_event = {
+                    id = tcdebugcommands.2
+                    days = 365
+                }
+            }
+        }
+        
+    }
 }

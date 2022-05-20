@@ -20,17 +20,17 @@ enable_operative_missions = {
 		value = 100
 	}
 
-	ai_strategy = {
-		type = operative_mission
-		mission = counter_intelligence
-		value = 100
-	}
+	#ai_strategy = {
+	#	type = operative_mission
+	#	mission = counter_intelligence
+	#	value = 100
+	#}
 
-	ai_strategy = {
-		type = operative_mission
-		mission = quiet_network
-		value = 100
-	}
+	#ai_strategy = {
+	#	type = operative_mission
+	#	mission = quiet_network
+	#	value = 100
+	#}
 
 #	ai_strategy = {
 #		type = operative_mission
@@ -50,11 +50,11 @@ enable_operative_missions = {
 		value = 100
 	}
 
-	ai_strategy = {
-		type = operative_mission
-		mission = control_trade
-		value = 100
-	}
+	#ai_strategy = {
+	#	type = operative_mission
+	#	mission = control_trade
+	#	value = 100
+	#}
 
 #	ai_strategy = {
 #		type = operative_mission

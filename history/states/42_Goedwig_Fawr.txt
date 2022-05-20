@@ -16,7 +16,8 @@ state={
 		}
 	}
 	resources={
-		oil = 11		
+		oil = 21		#DEBUG - should be 11
+		rubber = 20##DEBUG REMOVE
 	}
 	manpower = 159442
 	buildings_max_level_factor=1.000

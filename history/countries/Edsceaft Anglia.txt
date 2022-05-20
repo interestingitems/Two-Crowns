@@ -1,7 +1,11 @@
-capital = 13
+capital = 35
 set_research_slots = 3
 
+oob = "EDS_Start"
+
+
 set_technology = {
+	basic_train  = 1
 	infantry_weapons = 1
 	infantry_weapons1 = 1
 	tech_recon = 1
@@ -34,5 +38,19 @@ set_popularities = {
 	communism = 0
 	neutrality = 85
 }
+
+add_ideas = {
+	tempbuffthingy
+}
+
+army_experience = 100##DEBUG REMOVE
+add_command_power = 50
+add_manpower = 400000
+add_equipment_to_stockpile = {##DEBUG REMOVE
+    type = infantry_equipment
+    amount = 60000
+    producer = CYM
+}
+
 
 recruit_character = Catheryn_Bretwalda

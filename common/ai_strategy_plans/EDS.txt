@@ -1,0 +1,54 @@
+inf_swarm = {
+	name = "Infantry Swarm"
+	desc = "Idk what I am doing"
+
+	allowed = {
+		always = yes
+	}
+	enable = {
+		always = yes
+	}
+
+	ai_national_focuses = {
+		
+	}
+
+	research = {
+		infantry_weapons = 50.0
+		infantry_tech = 30.0
+		artillery = 8.0
+		light_fighter = 30
+	}
+
+	# Keep small, as it is used as a factor for some things (such as research needs)
+	# Recommended around 1.0. Useful for relation between plans
+	weight = {
+		factor = 1.0
+		modifier = {
+			factor = 1.0
+		}
+	}
+
+	ai_strategy = {
+		type = prepare_for_war
+		id = CYM
+		value = 3000
+	}
+
+	ai_strategy = {
+		type = garrison
+		value = -60
+	}
+
+	ai_national_focuses = {
+		industrial_effort
+		construction_effort
+		construction_effort_2
+		infrastructure_effort
+		infrastructure_effort_2
+		extra_tech_slot
+		extra_tech_slot_2
+		construction_effort_3
+		secret_weapons
+	}
+}

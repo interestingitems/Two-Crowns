@@ -1,0 +1,83 @@
+add_namespace = tcdebugcommands
+
+country_event = {
+	id = tcdebugcommands.10
+	title = "One Year"
+	desc = "War soon"
+
+
+	is_triggered_only = yes
+	#fire_only_once = yes
+
+	option = {
+		name = "Okay"
+		log = "[?max_manpower_k]"
+		log = "[?max_available_manpower_k]"
+		log = "[?manpower_k]"
+		log = "[?has_manpower]"
+		log = "[?manpower_per_military_factory]"
+		log = "[?amount_manpower_in_deployment_queue]"
+		
+	}
+
+
+}
+
+country_event = {
+	id = tcdebugcommands.0
+	title = "One Year"
+	desc = "War soon"
+
+
+	is_triggered_only = yes
+	#fire_only_once = yes
+
+	option = {
+		name = "Okay"
+	}
+
+
+}
+
+
+country_event = {
+	id = tcdebugcommands.1
+	title = "War"
+	desc = "War now"
+
+
+
+	is_triggered_only = yes
+	#fire_only_once = yes
+
+	option = {
+		name = "Okay"
+	}
+
+
+}
+
+country_event = {
+	id = tcdebugcommands.2
+	title = "War"
+	desc = "War now"
+
+    hidden = yes
+
+    immediate = {
+        add_war_support = 0.5
+        declare_war_on = {
+            target = EDS
+            type = annex_everything
+        }
+    }
+
+	is_triggered_only = yes
+	fire_only_once = yes
+
+	option = {
+		name = "Okay"
+	}
+
+
+}
