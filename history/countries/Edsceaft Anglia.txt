@@ -52,5 +52,11 @@ add_equipment_to_stockpile = {##DEBUG REMOVE
     producer = CYM
 }
 
+add_equipment_to_stockpile = {##DEBUG REMOVE
+    type = artillery_equipment
+    amount = 400
+    producer = EDS
+}
+
 
 recruit_character = Catheryn_Bretwalda

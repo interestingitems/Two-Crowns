@@ -312,7 +312,7 @@ technologies = {
 		}
 		
 		ai_will_do = {
-			factor = 4
+			factor = 6
 		}
 	}
 	

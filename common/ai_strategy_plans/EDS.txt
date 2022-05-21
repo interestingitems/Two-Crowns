@@ -3,16 +3,13 @@ inf_swarm = {
 	desc = "Idk what I am doing"
 
 	allowed = {
-		always = yes
+		tag = EDS
 	}
 	enable = {
 		always = yes
 	}
 
-	ai_national_focuses = {
-		
-	}
-
+	
 	research = {
 		infantry_weapons = 50.0
 		infantry_tech = 30.0

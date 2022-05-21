@@ -33,6 +33,9 @@ Wild_Aggression = {
 #}
 
 default_unit_production = { #If adding country-unique ones, bear in mind that they STACK
+	allowed = {
+		tag = EDS
+	}
 	enable = {
 		always = yes
 	}
@@ -322,20 +325,6 @@ default_pp_spend_amount = {
 
 
 
-default_stockpile_management = {
-	enable = {
-		num_divisions > 150
-	}
-
-	abort = {
-		num_divisions < 130
-	}
-
-	ai_strategy = {
-		type = equipment_stockpile_surplus_ratio
-		value = 35 # double base stockpile #from 25 to 35
-	}
-}
 
 
 DEFAULT_template_design = {

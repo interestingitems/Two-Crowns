@@ -225,7 +225,7 @@ infantry_generic = {
 			0.40 #-- max_strength
 			0.00 #-- maximum_speed
 			0.00 #-- armor_value
-			0.20 #-- ap_attack
+			0.00#0.20 #-- ap_attack#Removed for now
 			0.00 #-- reliability
 			0.00 #-- reliability_factor
 			0.00 #-- weight

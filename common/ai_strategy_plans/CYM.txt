@@ -3,21 +3,19 @@ inf_swarm = {
 	desc = "Idk what I am doing"
 
 	allowed = {
-		always = yes
+		tag = CYM
 	}
 	enable = {
 		always = yes
 	}
 
-	ai_national_focuses = {
-		
-	}
 
 	research = {
 		infantry_weapons = 50.0
 		infantry_tech = 30.0
 		artillery = 8.0
-		light_fighter = 30
+		light_fighter = 60.0
+		cas_bomber = 60.0
 	}
 
 	# Keep small, as it is used as a factor for some things (such as research needs)
@@ -29,16 +27,9 @@ inf_swarm = {
 		}
 	}
 
-	ai_strategy = {
-		type = prepare_for_war
-		id = EDS
-		value = 3000
-	}
 	
-	ai_strategy = {
-		type = garrison
-		value = -60
-	}
+
+	
 
 	ai_national_focuses = {
 		industrial_effort
